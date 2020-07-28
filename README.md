@@ -1,3 +1,3 @@
-# binarysearch.io
-My solutions to the problems from http://binarysearch.io/ <br>
-<a href="https://binarysearch.io/@/vramanchyk">My Profile</a>
+# leetcode.com
+My solutions to the problems from https://leetcode.com/ <br>
+<a href="https://leetcode.com/vramanchyk/">My Profile</a>
